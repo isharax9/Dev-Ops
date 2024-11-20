@@ -1,4 +1,4 @@
-Here's a breakdown of the Nginx commands from the image, with clearer explanations and examples:
+
 
 **1. Reload Nginx:**
 

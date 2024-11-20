@@ -1,4 +1,4 @@
-Here are the pm2 commands shown in the image, explained with clearer examples and best practices:
+
 
 **1. Restarting a Process with Updated Environment Variables:**
 
